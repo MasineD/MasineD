@@ -29,8 +29,7 @@ This repository serves as a curated portfolio of my technical work. Each project
 
 I am actively engaged in several projects to refine my skills and contribute to meaningful solutions:
 
-1.  **SQL Exploratory Data Analysis (EDA):** Conducting a comprehensive data exploration project to uncover patterns, anomalies, and insights from complex datasets.
-2.  **Tableau HR Dashboard:** Designing an interactive human resources analytics dashboard using AI-generated datasets to visualize key performance and operational metrics.
+1.  **Full-Stack Analytics (EDA):** Intergrating SQL, Python, and Tableua into a singular, end-to-end industry-level project, automating the pipeline from extraction to visualization.
 3.  **Python Skill Reinforcement:** Systematically revising and advancing my Python expertise through structured challenges and projects on platforms like freeCodeCamp.
 4.  **Place4U – Accommodation Finder Platform:** Collaborating on a full-stack development project to create a functional platform for connecting accomodation seekers with housing opportunities.
 
