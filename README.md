@@ -1,10 +1,10 @@
 ## Hello 👋
 
-I am Donald Masine, a recent graduate with a Bachelor of Science in Applied Mathematics and Computer Science from the University of Johannesburg. My professional mission is to leverage technology and data to create tangible, positive impacts—whether through building intuitive software or informing strategic business decisions with data-driven insights.
+I am Donald Masine, a recent graduate with a Bachelor of Science in Applied Mathematics and Computer Science from the University of Johannesburg. My passion is to leverage technology and data to engineer reliable, client-focused solutions, driving positive impacts toward daily lives—whether through building intuitive software or informing strategic business decisions with data-driven insights.
 
-While my academic foundation is broad, my initial practical focus has been on frontend development. I approach every project with careful planning, frequently utilizing tools like Draw.io to architect and visualize concepts before implementation. Currently, I am expanding my analytical toolkit by deepening my proficiency in SQL, revisiting core Python programming, and mastering data visualization through dashboard development in Tableau.
+My coursework in Statistics and Numerical Analysis has provided a strong foundation in descriptive analytics and data interpretation. On the other hand, learning Java and C++ also helped me built a strong foundation in object-oriented programming and software engineering. I approach every project with careful planning, frequently utilizing tools like Draw.io to architect and visualize concepts before implementation. Currently, I am expanding my analytical toolkit by deepening my proficiency in SQL, revisiting core Python programming, and mastering data engineering concepts.
 
-This repository serves as a curated portfolio of my technical work. Each project is developed from the ground up to demonstrate my problem-solving methodology, attention to detail, and commitment to clean, functional design.
+This repository serves as a curated portfolio of my technical work. Each project is developed from the ground up to demonstrate my problem-solving methodology, attention to detail, and commitment to clean, functional design, and continuous learning.
 
 ---
 ## Technical Toolkit
@@ -27,10 +27,11 @@ This repository serves as a curated portfolio of my technical work. Each project
 ---
 ## Current Focus
 
-I am actively engaged in several projects to refine my skills and contribute to meaningful solutions:
+I am actively engaged in several projects to refine my skills and contribute to meaningful solutions while expanding my skill set:
 
-1.  **Full-Stack Analytics (EDA):** Intergrating SQL, Python, and Tableua into a singular, end-to-end industry-level project, automating the pipeline from extraction to visualization.
-3.  **Python Skill Reinforcement:** Systematically revising and advancing my Python expertise through structured challenges and projects on platforms like freeCodeCamp.
+1.  **Full-Stack Analytics (EDA):** Intergrating SQL, Python, and Power BI into a singular, end-to-end industry-level project, automating the pipeline from extraction to visualization.
+2.  **Data Engineering course:** Learning data engineering concepts and skills by taking a short course.
+3.  **Python Skill Reinforcement:** Systematically revising and advancing my Python expertise through structured challenges and projects.
 4.  **Place4U – Accommodation Finder Platform:** Collaborating on a full-stack development project to create a functional platform for connecting accomodation seekers with housing opportunities.
 
 ---
