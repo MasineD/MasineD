@@ -16,7 +16,7 @@ This repository serves as a curated portfolio of my technical work. Each project
   Python | Java | C++
 
 #### Data Analysis & Visualization 
-  SQL | Tableau | Jupyter Notebooks
+  SQL | PowerBI | Tableau | Jupyter Notebooks
 
 #### Development Environments & Tools 
   Visual Studio Code | Eclipse | CodeBlocks | SQL Server | Draw.io
