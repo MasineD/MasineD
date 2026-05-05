@@ -29,9 +29,9 @@ This repository serves as a curated portfolio of my technical work. Each project
 
 I am actively engaged in several projects to refine my skills and contribute to meaningful solutions while expanding my skill set:
 
-    1.  **Software Engineering course(self-paced):** Deepening my knowledge on the principles of Software Engineering.
-    2.  **MzansiBuilds:** A full-stack project management web application, designed specifically for developers.
-    3.  **Place4U – Accommodation Finder Platform:** Collaborating on a full-stack development project to create a functional platform for connecting accomodation seekers with housing opportunities.
+  1.  **Software Engineering course(self-paced):** Deepening my knowledge on the principles of Software Engineering.
+  2.  **MzansiBuilds:** A full-stack project management web application, designed specifically for developers.
+  3.  **Place4U – Accommodation Finder Platform:** Collaborating on a full-stack development project to create a functional platform for connecting accomodation seekers with housing opportunities.
 
 ---
 ## Contact
