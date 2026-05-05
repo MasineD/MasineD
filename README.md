@@ -2,7 +2,7 @@
 
 I am Donald Masine, a recent graduate with a Bachelor of Science in Applied Mathematics and Computer Science from the University of Johannesburg. My passion is to leverage technology and data to engineer reliable, client-focused solutions, driving positive impacts toward daily lives—whether through building intuitive software or informing strategic business decisions with data-driven insights.
 
-My coursework in Statistics and Numerical Analysis has provided a strong foundation in descriptive analytics and data interpretation. On the other hand, learning Java and C++ also helped me built a strong foundation in object-oriented programming and software engineering. I approach every project with careful planning, frequently utilizing tools like Draw.io to architect and visualize concepts before implementation. Currently, I am expanding my analytical toolkit by deepening my proficiency in SQL, revisiting core Python programming, and mastering data engineering concepts.
+My coursework in Statistics and Numerical Analysis has provided a strong foundation in descriptive analytics and data interpretation. On the other hand, learning Java and C++ also helped me built a strong foundation in object-oriented programming and software engineering. I approach every project with careful planning, frequently utilizing tools like Notion and Draw.io to architect and visualize concepts before implementation. Currently, I am expanding my toolkit by deepening my proficiency in SQL, revisiting core JavaScript programming, and mastering software engineering concepts.
 
 This repository serves as a curated portfolio of my technical work. Each project is developed from the ground up to demonstrate my problem-solving methodology, attention to detail, and commitment to clean, functional design, and continuous learning.
 
@@ -10,29 +10,28 @@ This repository serves as a curated portfolio of my technical work. Each project
 ## Technical Toolkit
 
 #### Languages & Frontend 
-  HTML | CSS | JavaScript | React
+  HTML | CSS | JavaScript | React | TailwindCSS
 
 #### Programming & Backend  
-  Python | Java | C++
+  Java | JavaScript | Node.js | Express.js
 
 #### Data Analysis & Visualization 
   SQL | PowerBI | Tableau | Jupyter Notebooks
 
 #### Development Environments & Tools 
-  Visual Studio Code | Eclipse | CodeBlocks | SQL Server | Draw.io
+  Visual Studio Code | Eclipse | MS SQL Server | PostgreSQL
 
 #### Productivity & Communication 
-  Microsoft Office Suite (Word, Excel, PowerPoint)
+  Microsoft Office Suite (Word, Excel, PowerPoint) | Draw.io | Notion
 
 ---
 ## Current Focus
 
 I am actively engaged in several projects to refine my skills and contribute to meaningful solutions while expanding my skill set:
 
-1.  **Full-Stack Analytics (EDA):** Intergrating SQL, Python, and Power BI into a singular, end-to-end industry-level project, automating the pipeline from extraction to visualization.
-2.  **Data Engineering course:** Learning data engineering concepts and skills by taking a short course.
-3.  **Python Skill Reinforcement:** Systematically revising and advancing my Python expertise through structured challenges and projects.
-4.  **Place4U – Accommodation Finder Platform:** Collaborating on a full-stack development project to create a functional platform for connecting accomodation seekers with housing opportunities.
+    1.  **Software Engineering course(self-paced):** Deepening my knowledge on the principles of Software Engineering.
+    2.  **MzansiBuilds:** A full-stack project management web application, designed specifically for developers.
+    3.  **Place4U – Accommodation Finder Platform:** Collaborating on a full-stack development project to create a functional platform for connecting accomodation seekers with housing opportunities.
 
 ---
 ## Contact
