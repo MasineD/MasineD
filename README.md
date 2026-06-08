@@ -1,10 +1,11 @@
 ## Hello 👋
 
-I am Donald Masine, a recent graduate with a Bachelor of Science in Applied Mathematics and Computer Science from the University of Johannesburg. My passion is to leverage technology and data to engineer reliable, client-focused solutions, driving positive impacts toward daily lives—whether through building intuitive software or informing strategic business decisions with data-driven insights.
+I am Donald Masine, a recent graduate with a Bachelor of Science in Applied Mathematics and Computer Science from the University of Johannesburg. My passion is to leverage technology to engineer reliable, client-focused solutions, driving positive impacts toward daily lives—whether through building intuitive software or informing strategic business decisions with data-driven insights.
 
-My coursework in Statistics and Numerical Analysis has provided a strong foundation in descriptive analytics and data interpretation. On the other hand, learning Java and C++ also helped me built a strong foundation in object-oriented programming and software engineering. I approach every project with careful planning, frequently utilizing tools like Notion and Draw.io to architect and visualize concepts before implementation. Currently, I am expanding my toolkit by deepening my proficiency in SQL, revisiting core JavaScript programming, and mastering software engineering concepts.
+My coursework in Statistics and Numerical Analysis has provided a strong foundation in descriptive analytics and data interpretation. On the other hand, learning Java and C++ at University level and JavaScript through short courses also helped me built a strong foundation in object-oriented programming and software engineering. I approach every project with careful planning, frequently utilizing tools like Notion and Draw.io to architect and visualize concepts before implementation. Currently, I am expanding my toolkit by deepening my proficiency in SQL, revisiting core JavaScript programming, and mastering software engineering concepts.
 
-This repository serves as a curated portfolio of my technical work. Each project is developed from the ground up to demonstrate my problem-solving methodology, attention to detail, and commitment to clean, functional design, and continuous learning.
+This repository serves as a curated portfolio of my technical work. Each project is developed from the ground up to demonstrate my problem-solving methodology, attention to detail, and commitment to clean, functional design, and continuous learning. To access my personal portfolio website, click [here](https://masine-donald.vercel.app/)
+
 
 ---
 ## Technical Toolkit
@@ -13,13 +14,16 @@ This repository serves as a curated portfolio of my technical work. Each project
   HTML | CSS | JavaScript | React | TailwindCSS
 
 #### Programming & Backend  
-  Java | JavaScript | Node.js | Express.js
+  C++ | Java | JavaScript | Node.js | Express.js | Python
 
 #### Data Analysis & Visualization 
   SQL | PowerBI | Tableau | Jupyter Notebooks
 
+#### Databases
+  MS SQL Server | PostgreSQL
+
 #### Development Environments & Tools 
-  Visual Studio Code | Eclipse | MS SQL Server | PostgreSQL
+  Visual Studio Code | Eclipse | Postman | Vitest
 
 #### Productivity & Communication 
   Microsoft Office Suite (Word, Excel, PowerPoint) | Draw.io | Notion
@@ -30,7 +34,7 @@ This repository serves as a curated portfolio of my technical work. Each project
 I am actively engaged in several projects to refine my skills and contribute to meaningful solutions while expanding my skill set:
 
   1.  **Software Engineering course(self-paced):** Deepening my knowledge on the principles of Software Engineering.
-  2.  **MzansiBuilds:** A full-stack project management web application, designed specifically for developers.
+  2.  **UbuntuHealth:** A full-stack patient follow-up web application.
   3.  **Place4U – Accommodation Finder Platform:** Collaborating on a full-stack development project to create a functional platform for connecting accomodation seekers with housing opportunities.
 
 ---
